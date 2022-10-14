@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js",
+    "@demo/demo-parent-app": "https://d14xy9qr8fz48g.cloudfront.net/parent/demo-demo-parent-app.js",
+    "@demo/micro-fe-one": "https://d14xy9qr8fz48g.cloudfront.net/app1/demo-micro-fe-one.js",
+    "@demo/micro-fe-two": "https://d14xy9qr8fz48g.cloudfront.net/app2/demo-micro-fe-two.js",
+    "@demo/root-config": "https://d14xy9qr8fz48g.cloudfront.net/demo-root-config/demo-root-config.js"
+  }
+}
