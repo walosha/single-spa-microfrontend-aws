@@ -1,15 +1,15 @@
-name: demo-fe-two
+name: micro-fe-two
 
 on:
   push:
     branches:
       - develop
     paths:
-      - "packages/demo-fe-two/**"
+      - "packages/micro-fe-two/**"
 
 defaults:
   run:
-    working-directory: packages/demo-fe-two
+    working-directory: packages/micro-fe-two
 
 jobs:
   build:
